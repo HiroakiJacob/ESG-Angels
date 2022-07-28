@@ -1,0 +1,340 @@
+Machine model: MacBookPro14,3
+SMC version: 2.45f5
+EFI version: 451.1.0
+OS version: 21G72
+Boot arguments: 
+Boot time: Thu Jul 28 08:50:23 2022
+
+
+
+*** Sampled system activity (Thu Jul 28 14:37:35 2022 +0900) (5052.30ms elapsed) ***
+
+*** Running tasks ***
+
+Name                               ID     CPU ms/s  User%  Deadlines (<2 ms, 2-5 ms)  Wakeups (Intr, Pkg idle)
+phantomjs                          32624  992.94    78.84  0.00    0.00               0.20    0.00              
+WindowServer                       168    209.85    74.46  60.37   0.00               181.90  0.00              
+Google Chrome Helper (GPU)         2470   156.37    62.76  0.20    0.00               60.77   0.00              
+Google Chrome Helper (Renderer)    33577  95.79     86.05  0.00    0.00               5.54    0.00              
+kernel_task                        0      47.09     0.00   24.35   0.00               4492.96 0.00              
+DEAD_TASKS                         -1     26.07     38.34  0.00    0.00               0.00    0.00              
+coreaudiod                         203    25.79     12.27  0.00    0.00               86.30   0.00              
+Microsoft Teams Helper (Renderer   5111   22.11     79.88  0.40    0.20               8.51    0.00              
+com.broadcom.mes.systemextension   383    21.65     69.05  0.00    0.00               2.97    0.00              
+Microsoft Teams Helper (GPU)       5053   10.67     70.57  0.00    0.00               60.17   0.00              
+com.apple.AppleUserHIDDrivers      334    8.71      37.42  0.00    0.00               0.00    0.00              
+powermetrics                       34449  8.02      7.27   0.00    0.00               0.20    0.00              
+Cisco Webex Meetings               508    5.52      84.32  0.00    0.00               0.40    0.00              
+Google Chrome                      494    4.57      74.32  0.00    0.00               0.59    0.00              
+Google Chrome Helper (Renderer)    33583  4.30      71.93  0.00    0.00               8.12    0.00              
+Code Helper (Renderer)             593    4.24      82.65  0.20    0.00               8.71    0.00              
+svpn                               1286   3.89      9.93   0.00    0.00               0.79    0.00              
+telemetryd_v2                      789    3.59      78.73  0.59    0.00               1.19    0.00              
+epsext                             388    2.74      36.35  0.00    0.00               10.89   0.00              
+JamfDaemon                         107    3.32      53.81  0.00    0.00               0.20    0.00              
+wdavdaemon_enterprise              658    3.07      64.72  1.58    0.20               2.97    0.00              
+trustd                             174    2.60      90.06  0.00    0.00               0.00    0.00              
+Google Chrome Helper               2471   2.41      81.69  0.00    0.00               0.40    0.00              
+Code Helper (Renderer)             666    1.70      49.78  8.71    0.00               14.05   0.00              
+wdavdaemon                         146    2.07      44.68  0.00    0.00               0.00    0.00              
+java                               32631  1.37      52.05  0.00    0.00               33.25   0.00              
+com.apple.DriverKit.AppleUserECM   335    1.33      36.56  0.00    0.00               7.72    0.00              
+mDNSResponder                      230    1.18      54.87  4.16    0.00               6.14    0.00              
+Code Helper (GPU)                  578    1.15      71.18  0.00    0.00               6.33    0.00              
+mysqld                             156    1.12      40.33  0.00    0.00               55.62   0.00              
+wdavdaemon_unprivileged            705    0.86      70.21  0.00    0.00               0.00    0.00              
+Google Chrome Helper (Renderer)    2495   0.65      86.23  0.00    0.00               3.76    0.00              
+Microsoft Edge                     483    0.64      62.80  0.00    0.00               2.57    0.00              
+netext                             277    0.62      58.79  0.00    0.00               0.79    0.00              
+airportd                           196    0.56      68.17  0.00    0.00               0.79    0.00              
+java                               32623  0.52      46.58  0.00    0.00               21.18   0.00              
+BIG-IP Edge Client                 1254   0.47      47.55  0.00    0.00               1.39    0.00              
+logd                               92     0.55      51.98  0.00    0.00               0.20    0.00              
+distnoted                          428    0.58      90.27  0.00    0.00               0.00    0.00              
+fileproviderd                      544    0.42      65.15  0.00    0.00               2.18    0.00              
+analyticsd                         172    1.18      59.77  0.00    0.00               0.00    0.00              
+svpn                               1287   0.36      21.12  0.00    0.00               0.40    0.00              
+Code Helper                        661    0.34      39.21  3.17    0.79               6.73    0.00              
+Microsoft Teams Helper (Renderer   5120   0.32      83.58  0.00    0.00               0.99    0.00              
+Microsoft Edge Helper (Renderer)   6043   0.31      70.91  0.00    0.00               2.38    0.00              
+Teams                              5046   0.29      73.03  0.40    0.00               1.19    0.00              
+Microsoft Excel                    500    0.26      54.70  0.00    0.00               2.97    0.00              
+powerd                             106    0.26      38.57  0.00    0.00               0.40    0.00              
+cfprefsd                           167    0.75      23.42  0.00    0.00               0.20    0.00              
+Code Helper (Renderer)             659    0.23      79.93  0.40    0.00               0.59    0.00              
+opendirectoryd                     133    0.21      55.80  0.00    0.00               0.00    0.00              
+Microsoft Edge Helper (GPU)        6024   0.21      48.12  0.00    0.00               1.39    0.00              
+launchd                            1      0.21      49.81  0.00    0.00               0.00    0.00              
+OneDrive                           989    0.18      54.02  0.00    0.00               9.90    0.00              
+Microsoft PowerPoint               503    0.17      50.80  0.00    0.00               1.19    0.00              
+notifyd                            162    0.20      55.29  0.00    0.00               0.00    0.00              
+Microsoft Teams Helper (Renderer   5122   0.18      57.02  0.00    0.00               1.39    0.00              
+lockoutagent                       507    0.17      40.47  0.00    0.00               1.19    0.00              
+launchservicesd                    137    0.18      40.76  0.00    0.00               0.00    0.00              
+runningboardd                      192    0.16      67.11  0.00    0.00               0.40    0.00              
+SymDaemon                          98     0.44      41.67  0.00    0.00               22.56   0.00              
+fseventsd                          97     0.14      56.67  0.00    0.00               1.39    0.00              
+Microsoft Outlook                  1474   0.13      53.03  0.00    0.00               0.99    0.00              
+symptomsd                          199    0.40      52.40  0.00    0.00               1.39    0.00              
+Code Helper                        6269   0.13      38.75  0.79    0.00               1.98    0.00              
+Electron                           497    0.12      67.77  0.20    0.00               1.39    0.00              
+configd                            104    0.12      26.26  0.00    0.00               0.00    0.00              
+SymSharedSettingsd                 386    0.13      72.31  0.00    0.00               0.20    0.00              
+UserEventAgent                     93     0.13      51.31  0.00    0.00               0.00    0.00              
+screencaptureui                    29001  0.10      55.08  0.00    0.00               0.99    0.00              
+PerfPowerServices                  154    0.27      73.37  0.00    0.00               0.00    0.00              
+Google Chrome Helper (Renderer)    27201  0.07      67.41  0.00    0.00               0.59    0.00              
+mds                                121    0.09      47.47  0.00    0.00               0.99    0.00              
+Code Helper                        6249   0.06      34.98  0.40    0.00               1.19    0.00              
+bluetoothd                         161    0.09      59.58  0.00    0.00               0.59    0.00              
+distnoted                          152    0.18      59.92  0.00    0.00               0.00    0.00              
+Microsoft Edge Helper (Renderer)   6069   0.05      73.56  0.00    0.00               0.59    0.00              
+Microsoft Edge Helper              6033   0.05      60.09  0.00    0.00               0.79    0.00              
+Microsoft Edge Helper              6025   0.04      53.14  0.00    0.00               0.40    0.00              
+WiFiAgent                          579    0.04      25.87  0.00    0.00               0.20    0.00              
+contextstored                      184    0.12      35.54  0.00    0.00               0.59    0.00              
+Google Chrome Helper (Renderer)    33578  0.04      69.45  0.00    0.00               0.79    0.00              
+Microsoft Edge Helper (Renderer)   8051   0.03      68.99  0.00    0.00               0.00    0.00              
+watchdogd                          117    0.03      52.15  0.00    0.00               0.20    0.00              
+Symantec                           978    0.04      42.67  0.00    0.00               0.40    0.00              
+Microsoft Edge Helper (Renderer)   6055   0.03      70.09  0.00    0.00               0.79    0.00              
+webexmta                           1071   0.03      76.46  0.00    0.00               0.40    0.00              
+WirelessRadioManagerd              558    0.03      55.96  0.00    0.00               0.00    0.00              
+parsecd                            617    0.03      54.20  0.00    0.00               0.59    0.00              
+mds_stores                         327    0.08      41.33  0.00    0.00               0.00    0.00              
+Code Helper (Renderer)             679    0.03      39.32  0.20    0.00               0.40    0.00              
+httpd                              136    0.03      27.42  0.00    0.00               0.99    0.00              
+Microsoft Update Assistant         651    0.03      63.66  0.00    0.00               1.19    0.00              
+Google Chrome Helper               2474   0.02      58.03  0.00    0.00               0.59    0.00              
+uninstalld                         96     0.03      34.45  0.00    0.00               0.20    0.00              
+mDNSResponderHelper                239    0.02      39.01  0.00    0.00               0.99    0.00              
+com.apple.quicklook.ThumbnailsAg   549    0.02      14.85  0.00    0.00               0.20    0.00              
+Google Chrome Helper (Renderer)    2500   0.02      68.95  0.00    0.00               0.99    0.00              
+trustd                             472    0.06      70.56  0.00    0.00               0.40    0.00              
+thermald                           337    0.02      23.83  0.00    0.00               0.00    0.00              
+Google Chrome Helper               2501   0.02      83.81  0.00    0.00               0.20    0.00              
+com.apple.WebKit.WebContent        26105  0.01      70.29  0.00    0.00               0.40    0.00              
+Code Helper                        587    0.01      58.16  0.00    0.00               0.20    0.00              
+UserEventAgent                     462    0.01      31.75  0.00    0.00               0.20    0.00              
+locationd                          346    0.04      34.50  0.00    0.00               0.99    0.00              
+TouchBarServer                     360    0.01      20.09  0.00    0.00               0.40    0.00              
+com.apple.WebKit.WebContent        26108  0.01      69.18  0.00    0.00               0.20    0.00              
+Google Chrome Helper (Renderer)    2498   0.01      69.39  0.00    0.00               0.59    0.00              
+Microsoft AutoUpdate               510    0.01      33.44  0.00    0.00               0.40    0.00              
+AMPLibraryAgent                    962    0.03      53.82  0.00    0.00               0.20    0.00              
+apsd                               134    0.01      42.07  0.00    0.00               0.20    0.00              
+appstoreagent                      1486   0.03      34.34  0.00    0.00               0.40    0.00              
+searchpartyuseragent               1206   0.03      35.51  0.00    0.00               0.99    0.00              
+Microsoft Teams Helper             5054   0.01      71.31  0.00    0.00               0.20    0.00              
+CommCenter                         495    0.01      39.20  0.00    0.00               0.20    0.00              
+dasd                               150    0.03      15.69  0.00    0.00               0.59    0.00              
+Google Chrome Helper (Renderer)    33582  0.01      59.53  0.00    0.00               0.59    0.00              
+CalNCService                       548    0.02      22.81  0.00    0.00               0.00    0.00              
+nsurlsessiond                      501    0.02      25.52  0.00    0.00               0.40    0.00              
+mediaremoted                       100    0.02      26.97  0.00    0.00               0.00    0.00              
+com.apple.WebKit.WebContent        26249  0.01      19.00  0.00    0.00               0.20    0.00              
+EmojiFunctionRowIM_Extension       627    0.01      25.15  0.00    0.00               0.20    0.00              
+ControlCenter                      516    0.01      73.77  0.00    0.00               0.20    0.00              
+Google Chrome Helper (Renderer)    33584  0.01      25.36  0.00    0.00               0.20    0.00              
+distnoted                          188    0.02      43.96  0.00    0.00               0.00    0.00              
+OneDrive File Provider             5286   0.01      41.37  0.00    0.00               0.20    0.00              
+distnoted                          249    0.02      25.53  0.00    0.00               0.00    0.00              
+com.apple.WebKit.WebContent        1511   0.01      22.78  0.00    0.00               0.20    0.00              
+gamecontrollerd                    463    0.02      44.41  0.00    0.00               0.20    0.00              
+distnoted                          254    0.02      45.77  0.00    0.00               0.00    0.00              
+distnoted                          340    0.02      27.14  0.00    0.00               0.00    0.00              
+com.apple.geod                     601    0.02      36.50  0.00    0.00               0.59    0.00              
+assistantd                         708    0.01      24.20  0.00    0.00               0.20    0.00              
+rtcreportingd                      279    0.01      48.89  0.00    0.00               0.20    0.00              
+distnoted                          331    0.01      33.95  0.00    0.00               0.00    0.00              
+nsurlsessiond                      236    0.01      35.07  0.00    0.00               0.40    0.00              
+com.apple.Safari.SafeBrowsing.Se   2419   0.01      38.10  0.00    0.00               0.59    0.00              
+distnoted                          967    0.01      30.59  0.00    0.00               0.00    0.00              
+com.apple.audio.Core-Audio-Drive   259    0.01      27.04  0.00    0.00               0.79    0.00              
+lskdd                              1526   0.00      38.19  0.00    0.00               0.20    0.00              
+SymSepLps                          135    0.01      16.16  0.00    0.00               0.40    0.00              
+distnoted                          375    0.01      32.66  0.00    0.00               0.00    0.00              
+distnoted                          347    0.01      35.12  0.00    0.00               0.00    0.00              
+cfprefsd                           430    0.01      23.86  0.00    0.00               0.59    0.00              
+distnoted                          393    0.01      35.72  0.00    0.00               0.00    0.00              
+distnoted                          373    0.01      35.65  0.00    0.00               0.00    0.00              
+distnoted                          409    0.01      36.46  0.00    0.00               0.00    0.00              
+distnoted                          1149   0.01      34.76  0.00    0.00               0.00    0.00              
+distnoted                          20172  0.01      35.11  0.00    0.00               0.00    0.00              
+distnoted                          419    0.01      35.49  0.00    0.00               0.00    0.00              
+distnoted                          1498   0.01      36.01  0.00    0.00               0.00    0.00              
+networkserviceproxy                565    0.01      27.03  0.00    0.00               0.20    0.00              
+Google Chrome Helper (Renderer)    2494   0.00      42.92  0.00    0.00               0.20    0.00              
+systemstats                        102    0.01      24.14  0.00    0.00               0.20    0.00              
+automountd                         541    0.00      47.78  0.00    0.00               0.20    0.00              
+tipsd                              1280   0.01      40.48  0.00    0.00               0.20    0.00              
+cloudd                             489    0.01      42.30  0.00    0.00               0.20    0.00              
+commerce                           654    0.01      45.67  0.00    0.00               0.20    0.00              
+mobileassetd                       266    0.01      40.24  0.00    0.00               0.20    0.00              
+com.apple.geod                     253    0.01      50.46  0.00    0.00               0.20    0.00              
+adprivacyd                         966    0.01      47.36  0.00    0.00               0.20    0.00              
+amsengagementd                     1146   0.00      17.06  0.00    0.00               0.20    0.00              
+promotedcontentd                   1508   0.00      44.38  0.00    0.00               0.20    0.00              
+akd                                486    0.00      44.05  0.00    0.00               0.20    0.00              
+ALL_TASKS                          -2     1691.52   71.99  106.09  1.19               5182.00 0.00              
+
+
+**** Battery and backlight usage ****
+
+Backlight level: 784 (range 0-1024)
+Keyboard Backlight level: 325 (off 0 on range 32-512)
+
+
+**** Network activity ****
+
+out: 25.93 packets/s, 5396.75 bytes/s
+in:  23.75 packets/s, 5632.09 bytes/s
+
+
+**** Disk activity ****
+
+read: 7.13 ops/s 29.19 KBytes/s
+write: 0.99 ops/s 4.05 KBytes/s
+
+****  Interrupt distribution ****
+
+CPU 0:
+	Vector 0x46(SMC): 15.44 interrupts/sec
+	Vector 0x49(MacBookPro14,3): 13.46 interrupts/sec
+	Vector 0x72(XHC1): 41.96 interrupts/sec
+	Vector 0x75(SSD0): 7.52 interrupts/sec
+	Vector 0x79(XHC2): 8.31 interrupts/sec
+	Vector 0x7c(ARPT): 33.65 interrupts/sec
+	Vector 0x7d(HDAU): 3.96 interrupts/sec
+	Vector 0x7e(HDEF): 1.78 interrupts/sec
+	Vector 0xdd(TMR): 214.36 interrupts/sec
+	Vector 0xde(IPI): 612.20 interrupts/sec
+	Vector 0xdf(PMI): 0.20 interrupts/sec
+CPU 1:
+	Vector 0xdd(TMR): 20.39 interrupts/sec
+	Vector 0xde(IPI): 628.43 interrupts/sec
+CPU 2:
+	Vector 0xdd(TMR): 121.33 interrupts/sec
+	Vector 0xde(IPI): 1277.44 interrupts/sec
+CPU 3:
+	Vector 0xdd(TMR): 15.44 interrupts/sec
+	Vector 0xde(IPI): 477.41 interrupts/sec
+	Vector 0xdf(PMI): 0.20 interrupts/sec
+CPU 4:
+	Vector 0xdd(TMR): 105.69 interrupts/sec
+	Vector 0xde(IPI): 1179.66 interrupts/sec
+CPU 5:
+	Vector 0xdd(TMR): 13.66 interrupts/sec
+	Vector 0xde(IPI): 400.41 interrupts/sec
+CPU 6:
+	Vector 0xdd(TMR): 99.76 interrupts/sec
+	Vector 0xde(IPI): 1126.62 interrupts/sec
+CPU 7:
+	Vector 0xdd(TMR): 16.03 interrupts/sec
+	Vector 0xde(IPI): 378.05 interrupts/sec
+
+
+
+**** Processor usage ****
+
+Intel energy model derived package power (CPUs+GT+SA): 23.66W
+
+LLC flushed residency: 0%
+
+System Average frequency as fraction of nominal: 122.25% (3545.39 Mhz)
+Package 0 C-state residency: 0.00% (C2: 0.00% C3: 0.00% C6: 0.00% C7: 0.00% C8: 0.00% C9: 0.00% C10: 0.00% )
+
+Performance Limited Due to:
+CPU LIMIT MAX_TURBO_LIMIT
+CPU LIMIT TURBO_ATTENUATION
+CPU/GPU Overlap: 0.00%
+Cores Active: 95.93%
+GPU Active: 0.00%
+Avg Num of Cores Active: 1.57
+
+Core 0 C-state residency: 37.65% (C3: 0.24% C6: 0.00% C7: 37.41% )
+
+CPU 0 duty cycles/s: active/idle [< 16 us: 308.37/294.52] [< 32 us: 88.08/42.16] [< 64 us: 174.97/223.07] [< 128 us: 131.03/154.19] [< 256 us: 109.65/44.73] [< 512 us: 74.03/109.46] [< 1024 us: 50.27/55.82] [< 2048 us: 33.25/49.68] [< 4096 us: 14.25/21.38] [< 8192 us: 11.88/25.73] [< 16384 us: 22.76/0.00] [< 32768 us: 2.18/0.00] 
+CPU Average frequency as fraction of nominal: 122.43% (3550.58 Mhz)
+
+CPU 1 duty cycles/s: active/idle [< 16 us: 1679.43/682.66] [< 32 us: 135.19/227.82] [< 64 us: 88.28/250.78] [< 128 us: 55.82/261.07] [< 256 us: 22.56/176.36] [< 512 us: 10.69/119.15] [< 1024 us: 1.78/83.72] [< 2048 us: 0.20/88.67] [< 4096 us: 0.00/38.20] [< 8192 us: 0.00/42.55] [< 16384 us: 0.00/22.96] [< 32768 us: 0.00/0.00] 
+CPU Average frequency as fraction of nominal: 121.10% (3511.91 Mhz)
+
+Core 1 C-state residency: 60.11% (C3: 1.73% C6: 0.00% C7: 58.38% )
+
+CPU 2 duty cycles/s: active/idle [< 16 us: 660.89/342.62] [< 32 us: 94.41/38.00] [< 64 us: 125.29/286.80] [< 128 us: 152.01/250.78] [< 256 us: 107.67/71.45] [< 512 us: 103.52/99.36] [< 1024 us: 47.11/95.80] [< 2048 us: 37.80/83.72] [< 4096 us: 13.06/57.00] [< 8192 us: 10.69/30.88] [< 16384 us: 7.52/3.76] [< 32768 us: 0.00/0.00] 
+CPU Average frequency as fraction of nominal: 122.20% (3543.93 Mhz)
+
+CPU 3 duty cycles/s: active/idle [< 16 us: 2356.35/875.64] [< 32 us: 107.48/284.23] [< 64 us: 75.21/364.78] [< 128 us: 45.72/408.73] [< 256 us: 16.82/247.41] [< 512 us: 7.92/130.04] [< 1024 us: 0.20/84.52] [< 2048 us: 0.20/87.88] [< 4096 us: 0.00/62.94] [< 8192 us: 0.00/41.17] [< 16384 us: 0.00/22.56] [< 32768 us: 0.00/0.00] 
+CPU Average frequency as fraction of nominal: 120.95% (3507.48 Mhz)
+
+Core 2 C-state residency: 62.41% (C3: 2.97% C6: 0.00% C7: 59.44% )
+
+CPU 4 duty cycles/s: active/idle [< 16 us: 669.20/299.27] [< 32 us: 83.72/30.28] [< 64 us: 103.91/297.49] [< 128 us: 134.20/253.75] [< 256 us: 97.38/66.50] [< 512 us: 88.28/79.77] [< 1024 us: 42.75/64.33] [< 2048 us: 33.65/80.56] [< 4096 us: 11.48/71.65] [< 8192 us: 9.10/34.04] [< 16384 us: 7.13/3.56] [< 32768 us: 0.40/0.00] 
+CPU Average frequency as fraction of nominal: 122.20% (3543.83 Mhz)
+
+CPU 5 duty cycles/s: active/idle [< 16 us: 2106.76/706.21] [< 32 us: 106.29/250.58] [< 64 us: 63.73/325.40] [< 128 us: 34.24/373.89] [< 256 us: 17.02/257.90] [< 512 us: 5.15/135.58] [< 1024 us: 0.40/74.82] [< 2048 us: 0.20/76.20] [< 4096 us: 0.00/64.92] [< 8192 us: 0.00/48.29] [< 16384 us: 0.00/19.99] [< 32768 us: 0.00/0.00] 
+CPU Average frequency as fraction of nominal: 120.90% (3506.12 Mhz)
+
+Core 3 C-state residency: 57.08% (C3: 3.52% C6: 0.00% C7: 53.56% )
+
+CPU 6 duty cycles/s: active/idle [< 16 us: 719.87/289.37] [< 32 us: 86.69/33.45] [< 64 us: 89.86/329.36] [< 128 us: 117.37/262.85] [< 256 us: 79.57/70.07] [< 512 us: 65.71/75.81] [< 1024 us: 38.40/38.40] [< 2048 us: 31.67/58.79] [< 4096 us: 10.69/59.77] [< 8192 us: 3.17/29.89] [< 16384 us: 11.68/9.50] [< 32768 us: 2.18/0.00] 
+CPU Average frequency as fraction of nominal: 122.34% (3547.92 Mhz)
+
+CPU 7 duty cycles/s: active/idle [< 16 us: 901.37/250.38] [< 32 us: 88.87/107.28] [< 64 us: 57.99/159.73] [< 128 us: 31.67/169.03] [< 256 us: 14.25/157.95] [< 512 us: 6.14/83.53] [< 1024 us: 0.59/50.67] [< 2048 us: 0.00/34.84] [< 4096 us: 0.00/16.82] [< 8192 us: 0.00/19.00] [< 16384 us: 0.00/51.07] [< 32768 us: 0.00/0.59] 
+CPU Average frequency as fraction of nominal: 120.89% (3505.72 Mhz)
+
+**** GPU usage ****
+
+GPU 0 name IntelIG
+GPU 0 C-state residency: 100.05% (0.00%, 100.05%)
+GPU 0 P-state residency: 1100MHz: 0.00%, 1050MHz: 0.00%, 1000MHz: 0.00%, 950MHz: 0.00%, 900MHz: 0.00%, 850MHz: 0.00%, 800MHz: 0.00%, 750MHz: 0.00%, 700MHz: 0.00%, 650MHz: 0.00%, 600MHz: 0.00%, 550MHz: 0.00%, 500MHz: 0.00%, 450MHz: 0.00%, 400MHz: 0.00%, 350MHz: 0.00%
+GPU 0 average active frequency as fraction of nominal (350.00Mhz): 0.00% (0.00Mhz)
+GPU 0 HW average active frequency   : 0.00%
+GPU 0 GPU Busy                      : 0.00%
+GPU 0 DC6 Residency                 : 0.00%
+GPU 0 [PSR] GPU + TCON are Off      : 0.00%
+GPU 0 [PSR] Only GPU is On          : 100.00%
+GPU 0 [PSR] Only TCON is On         : 0.00%
+GPU 0 [PSR] GPU + TCON are On       : 0.00%
+GPU 0 [PSR] StateMachine Bypass     : 100.00%
+GPU 0 [PSR] StateMachine FIFO       : 0.00%
+GPU 0 [PSR] StateMachine Others     : 0.00%
+GPU 0 DPB Strong On                 : 0.00%
+GPU 0 DPB Weak On                   : 0.00%
+GPU 0 PPFM on                       : 0.00%
+GPU 0 Throttle High Priority(%): 0
+GPU 0 Throttle NormalHi Priority(%): 0
+GPU 0 Throttle Normal Priority(%): 0
+GPU 0 Throttle Low Priority(%): 0
+GPU 0 Slice switch                  : 0 (0.00/second)
+GPU 0 DC6 Exit Reason - Flip: 0 (0.00/second)
+GPU 0 DC6 Exit Reason - Register: 0 (0.00/second)
+GPU 0 DC6 Exit Reason - Gamma: 0 (0.00/second)
+GPU 0 DC6 Exit Reason - Interrupt: 0 (0.00/second)
+GPU 0 DC6 Exit Reason - Cursor: 0 (0.00/second)
+GPU 0 DC6 Exit Reason - Render: 0 (0.00/second)
+GPU 0 FB Test Case 0
+
+**** AGPM Stats ****
+
+Accelerator Type: AMDRadeonX4000_AMDBaffinGraphicsAccelerator
+Plimit: 0.00 (GPU Frequency headroom N/A)
+
+Accelerator Type: IntelAccelerator
+Plimit: 0.00 (GPU Frequency headroom limited on average by 0 MHz)
+
+
+
+**** SMC sensors ****
+
+CPU Thermal level: 80
+GPU Thermal level: 30
+IO Thermal level: 30
+Fan: 4158 rpm
+CPU die temperature: 91.12 C (fan)
+GPU die temperature: 67.62 C
+CPU Plimit: 0.00
+GPU Plimit (Int): 0.00 
+GPU2 Plimit (Ext1): 0.00 
+Number of prochots: 0
